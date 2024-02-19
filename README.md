@@ -1,0 +1,1 @@
+Un projet de Fablab, un robot humanoide simulant la démarche humaine.
