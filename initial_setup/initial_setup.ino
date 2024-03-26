@@ -9,7 +9,7 @@ Servo ankleL;
 Servo ankleR;
 
 void setup() {
-  // put your setup code here, to run once:
+
   hipL.attach(6);
   hipR.attach(7);
   kneeL.attach(4);
@@ -29,5 +29,5 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+
 }
